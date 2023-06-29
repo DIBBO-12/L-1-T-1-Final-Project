@@ -1,0 +1,21 @@
+settings back button
+get value from settings
+place tick beside the selected option
+change photo and value together in tiles number
+
+esc to pause
+pause menu
+pause includes resume quit button
+
+
+life system
+after loss, show score screen, retry, quit to main menu
+
+normie would have  speed boost after some time and a life system
+
+relax would have more relaxing elements:: sakura leaves, theme change
+
+buetian mode will have rickroll sound and the 5 picture animation
+extrass: will show a text "You still here!!" // not mandatory
+
+attach high score button;
